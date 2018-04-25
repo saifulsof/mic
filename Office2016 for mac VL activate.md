@@ -16,6 +16,9 @@
 ```bash
 # md5(com.microsoft.office.licensingV2.plist) = a8f1283303838b4d3bd943775e463239
 cp com.microsoft.office.licensingV2.plist /Library/Preferences/
+
+# or download it in library by manual
+curl -sSL git.io/office16-plist -o /Library/Preferences/com.microsoft.office.licensingV2.plist
 ```
 
 3. run the office app
