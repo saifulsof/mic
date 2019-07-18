@@ -19,7 +19,7 @@ Fortunately, you can also use the **VL Serializer** tool, just install Office 20
 1. **DO NOT RUN OFFICE APP AFTER INSTALLED**, but just install Office 2019 for macOS
 
    - manual download ref: https://macadmins.software/
-   - [Official Link - Office 2016 Volume License 16.25.0](https://go.microsoft.com/fwlink/?linkid=525133)
+   - [Official Link - Office 2019 Volume License 16.27.0](https://go.microsoft.com/fwlink/?linkid=525133)
 
    or install via brew:
 
