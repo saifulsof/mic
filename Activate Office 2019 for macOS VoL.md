@@ -61,22 +61,23 @@ to check it, you can see details [in this comment](https://gist.github.com/zthxx
    - manual download ref: https://macadmins.software/
    - [Official Link - Office 2016 Volume License 16.16.10](https://go.microsoft.com/fwlink/?linkid=871743)
 
-or install via brew:
+    or install via brew:
 
-```bash
-# brew cask install microsoft-office  # this point to Office 2019 now
-# install last office 2016 version below
-brew cask install https://github.com/Homebrew/homebrew-cask/raw/538c7cf34c085e3bb4fdac36f6370ded87930036/Casks/microsoft-office.rb
-```
+    ```bash
+    # brew cask install microsoft-office  # this point to Office 2019 now
+    # install last office 2016 version below
+    brew cask install https://github.com/Homebrew/homebrew-cask/raw/538c7cf34c085e3bb4fdac36f6370ded87930036/Casks/microsoft-office.rb
+    ```
 
 2. copy license file `com.microsoft.office.licensingV2.plist` to `Preferences`
 
-```bash
-# md5(com.microsoft.office.licensingV2.plist) = a8f1283303838b4d3bd943775e463239
-cp com.microsoft.office.licensingV2.plist /Library/Preferences/
+    ```bash
+    # md5(com.microsoft.office.licensingV2.plist) = a8f1283303838b4d3bd943775e463239
+    cp com.microsoft.office.licensingV2.plist /Library/Preferences/
 
-# or download it in library by command line
-curl -sSL git.io/office16-plist -o /Library/Preferences/com.microsoft.office.licensingV2.plist
-```
+    # or download it in library by command line
+    curl -sSL git.io/office16-plist -o /Library/Preferences/com.microsoft.office.licensingV2.plist
+    ```
 
 3. run the office app, completed.
+
