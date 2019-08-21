@@ -29,12 +29,20 @@ Fortunately, you can also use the **VL Serializer** tool, just install Office 20
 
 2. manual download and install [**Microsoft_Office_2019_VL_Serializer.pkg**](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a#file-microsoft_office_2019_vl_serializer-pkg)
 
-   - [`Microsoft_Office_2019_VL_Serializer.pkg` in this gist](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a/raw/653a47758809928d2d0e1c836689ea6e53b50c23/Microsoft_Office_2019_VL_Serializer.pkg)
+   - [`Microsoft_Office_2019_VL_Serializer.pkg` in this gist](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a/raw/Microsoft_Office_2019_VL_Serializer.pkg)
    - [`Microsoft_Office_2019_VL_Serializer.pkg` official link]( https://www.microsoft.com/licensing/servicecenter)
 
 3. run `Microsoft_Office_2019_VL_Serializer` and it will automatic activate Office 2019
 
 4. open the office app, completed.
+
+
+
+### Note
+
+the [`Serializer.pkg` in this gist](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a/raw/Microsoft_Office_2019_VL_Serializer.pkg) is signature by Microsoft Corporation Official.
+
+to check it, you can see details [in this comment](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a#gistcomment-3004329)
 
 
 
