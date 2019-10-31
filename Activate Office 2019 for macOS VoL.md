@@ -37,13 +37,13 @@ Fortunately, you can also use the **VL Serializer** tool, just install Office 20
 4. open the office app, completed.
 
 
-
 ### Note
 
-the [`Serializer.pkg` in this gist](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a/raw/Microsoft_Office_2019_VL_Serializer.pkg) is signature by Microsoft Corporation Official.
+If you alaways been asked for 'Sign in' and still requires activation, please try to [remove Office license files on a Mac](https://support.office.com/en-us/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
+[Here](https://go.microsoft.com/fwlink/?linkid=849815) is the official download link for [Microsoft_Office_License_Removal](https://go.microsoft.com/fwlink/?linkid=849815) tool. (thanks for @lidroider's [comment](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a#gistcomment-3070164))
 
-to check it, you can see details [in this comment](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a#gistcomment-3004329)
-
+The [`Serializer.pkg` in this gist](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a/raw/Microsoft_Office_2019_VL_Serializer.pkg) is signature by Microsoft Corporation Official.
+To check it, you can see details [in this comment](https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a#gistcomment-3004329)
 
 
 ## Office 2016 16.11 for macOS VL2 license
